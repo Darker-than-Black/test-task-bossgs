@@ -1,0 +1,4 @@
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
+Header set Access-Control-Allow-Origin "*"
